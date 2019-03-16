@@ -1,0 +1,39 @@
+html,body{
+	height: 100%;
+	background-color: #ff0202;
+}
+.container-fluid{
+	margin-right:0px;
+	background-color: rgb(32,32,32);
+  height: 100%;
+}	
+#hlavicka{
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 30px;
+	color: rgb(255,0,0);
+	height: 10%;
+}
+#collapsibleNavbar{
+	color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	width: 100%;
+}
+
+#o-nas{
+	width: 25%;
+	text-align: center;
+}
+#co-nabizime{
+	width: 25%;
+	text-align: center;
+}
+#projekty{
+	width: 25%;
+	text-align: center;
+	margin: 0 auto;
+}
+#kontakt{
+	width: 25%;
+	text-align: center;
+}
