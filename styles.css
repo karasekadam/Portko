@@ -15,7 +15,7 @@ html,body{
 	height: 10%;
 }
 #collapsibleNavbar{
-	color: black;
+	color: rgb(255,0,0);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	width: 100%;
 }
@@ -36,4 +36,11 @@ html,body{
 #kontakt{
 	width: 25%;
 	text-align: center;
+}
+
+a:link {
+	color: rgb(255,0,0);
+}
+.art-content{
+	background-color: white;
 }
