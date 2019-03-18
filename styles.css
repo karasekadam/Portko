@@ -37,6 +37,10 @@ html,body{
 	width: 25%;
 	text-align: center;
 }
+.odkaz:hover{
+	text-decoration: none;
+	 color: rgb(255,0,0)
+}
 
 a:link {
 	color: rgb(255,0,0);
